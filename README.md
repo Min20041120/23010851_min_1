@@ -1,3 +1,31 @@
 # 2026 digital logic circuit
 ## 과제 제출 방법
-**STEP 1. Repo Fork**
+
+- 제출 파일 이름: `학번_이름_과제1`
+- 과제물은 md, pdf 등 형식에 제한 없이 제출 가능합니다.
+- 다만, **생성형 AI가 내용을 정확히 인식할 수 있는 상태인지 반드시 본인이 확인한 후 업로드**해야 합니다.
+- 손글씨로 문제를 작성하거나 풀이한 경우에는, 해당 문서를 **스캔하여 업로드 전 생성형 AI에서 문제와 풀이가 정상적으로 인식되는지 반드시 확인**해 주세요.
+- 제출 형식 자체는 평가 대상이 아니지만, **AI가 내용을 제대로 인식할 수 있어야 합니다.**
+- **AI 인식 여부를 확인하지 않고 제출한 과제물은 점수를 부여하지 않습니다.**
+
+## 증빙 파일 제출 안내
+
+- 과제 제출 시, **생성형 AI에서 과제물이 정상적으로 인식되는지 확인한 화면 또는 결과를 증빙 파일로 함께 제출**해야 합니다.
+- 증빙 파일에는 문제 및 풀이 내용이 AI에서 올바르게 읽히는 것이 확인되어야 합니다.
+
+### STEP 1. Repo Fork
+<img width="1888" height="1098" alt="스크린샷 2026-03-14 200952" src="https://github.com/user-attachments/assets/37502b86-116a-45ef-9a5c-1c663fb989b4" />
+<img width="1897" height="1027" alt="스크린샷 2026-03-14 201005" src="https://github.com/user-attachments/assets/371842e6-152b-4aab-9469-ac3f4ddd0e20" />
+<img width="1885" height="1037" alt="스크린샷 2026-03-14 201022" src="https://github.com/user-attachments/assets/3f85d70d-8287-4780-8091-3d3b4fe0df14" />
+<img width="1872" height="1002" alt="스크린샷 2026-03-14 201036" src="https://github.com/user-attachments/assets/6a9eb3c4-c89f-4be2-9ce0-f684104ca910" />
+### STEP 2. 과제 제출
+<img width="1891" height="1029" alt="스크린샷 2026-03-14 201051" src="https://github.com/user-attachments/assets/b992f5eb-6f06-4650-ac76-9d6fc8b8c7e5" />
+<img width="1890" height="1035" alt="스크린샷 2026-03-14 201108" src="https://github.com/user-attachments/assets/8605932b-bcc0-465c-babe-26e25b06e84f" />
+<img width="1886" height="1038" alt="스크린샷 2026-03-14 201121" src="https://github.com/user-attachments/assets/4c5fc090-dfff-4104-b55b-4d7b6bdec280" />
+### STEP 3. Pull request
+<img width="1886" height="1030" alt="스크린샷 2026-03-14 201131" src="https://github.com/user-attachments/assets/b6873292-0fd1-4a11-aa39-5669fef17be2" />
+<img width="1892" height="1046" alt="스크린샷 2026-03-14 201141" src="https://github.com/user-attachments/assets/572b4daa-644c-4787-904f-fa32a02d9820" />
+<img width="1887" height="1042" alt="스크린샷 2026-03-14 201152" src="https://github.com/user-attachments/assets/42bab4b9-d3c4-4083-880d-f6c86caed2b5" />
+### STEP 4. 제출 확인
+<img width="1885" height="1130" alt="스크린샷 2026-03-14 201201" src="https://github.com/user-attachments/assets/7d7b968a-b83a-4484-ac87-4206100c7a6a" />
+<img width="1895" height="1045" alt="스크린샷 2026-03-14 201210" src="https://github.com/user-attachments/assets/7fc8d1e9-96a2-44a8-b05e-f5c8d81470a4" />
